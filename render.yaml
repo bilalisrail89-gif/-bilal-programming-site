@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bilal-programming-interface
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
